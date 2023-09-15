@@ -24,12 +24,14 @@ taxonomy:
 * [chain.nem.ninja](http://chain.nem.ninja/#/blocks/0)
 * [explorer.ournem.com](http://explorer.ournem.com/)
 * [Nemtool](https://explorer.nemtool.com/)
-
+* [NOWNodes Xemexplorer](https://nownodes.io/nodes/nem-xem)
+  
 ## Node Explorers
 
 * [nodeexplorer.com](https://nodeexplorer.com/)
 * [nemnodes.org](https://nemnodes.org/monitor/)
-
+* [NOWNodes](https://nownodes.io/nodes/nem-xem)
+  
 ## Account Explorer
 
 * [nember.ru](http://nember.ru/#/)
